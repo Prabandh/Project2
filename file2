@@ -10,6 +10,7 @@ drwxrwxr-x 3 ubuntu ubuntu 4096 May 31 15:05 First
 -rwxrwxr-- 1 ubuntu ubuntu   79 Jun  2 04:49 cmds_practice
 drwxrwxrwx 3 ubuntu ubuntu 4096 Jun  1 01:29 day
 -rw-rwxr-x 1 ubuntu ubuntu    0 May 31 15:00 file2
+
 -rwxrw-r-- 1 ubuntu ubuntu   55 Jun  1 03:03 file3
 -rwxrwxr-x 1 ubuntu ubuntu   66 Jun  1 03:47 file5
 mystery 
