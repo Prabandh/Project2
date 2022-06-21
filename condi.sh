@@ -15,6 +15,6 @@ then
 else
 	echo "$num2 is equal to $num1"
 fi
-
+#adding this to check the commit from aws-ec2
 
 
